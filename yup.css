@@ -1,0 +1,31 @@
+body {
+ 
+  display: flex;
+  align-items: center;
+  background-size: 1000px;
+  background-image: url("paper.jpg");
+  background-position: center center;
+}
+
+.ay{
+	
+	align-items: center;
+}
+.kilig img{
+				width: 200px;
+}
+
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
+.Developer{
+width: 60%;
+
+				justify-content: center;
+				
+				
+}
